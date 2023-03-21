@@ -1,33 +1,7 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="cover-image.png" alt="logo" height="auto" />
+  <img src="cover-image.png" alt="logo" height="100" width="auto" />
   <br/>
 
   <h3><b>Module 1 Hello World</b></h3>
@@ -37,7 +11,7 @@ After you're finished please remove all the comments and instructions!
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[About the project\] ](#-about-the-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -67,7 +41,7 @@ This project is created to practice workflow in GitHub, pull Request and Linters
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> there no live demo yet.
+> there's no live demo yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +49,7 @@ This project is created to practice workflow in GitHub, pull Request and Linters
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> You can follow the Microverse repo's about linter to leand about tihs topic
+> You can follow the Microverse repo's about linter to learn about this topic
 
 
 <!-- AUTHORS -->
