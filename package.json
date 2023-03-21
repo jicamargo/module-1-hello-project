@@ -1,0 +1,23 @@
+{
+  "name": "module-1-hello-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jicamargo/module-1-hello-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jicamargo/module-1-hello-project/issues"
+  },
+  "homepage": "https://github.com/jicamargo/module-1-hello-project#readme",
+  "devDependencies": {
+    "hint": "^7.1.5"
+  }
+}
