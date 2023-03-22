@@ -4,7 +4,7 @@
   <img src="cover-image.png" alt="logo" height="100" width="auto" />
   <br/>
 
-  <h3><b>Module 1 Hello World</b></h3>
+  <h3><b>Module 1 Hello Microverse</b></h3>
   <br/>
 </div>
 
@@ -28,7 +28,7 @@
 
 This project is created to practice workflow in GitHub, pull Request and Linters
 
-**Hello World** is a Hello world web page
+**Hello Microverse** is a Hello Microverse web page to practice use of linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
