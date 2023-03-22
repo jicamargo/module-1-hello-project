@@ -1,4 +1,3 @@
 #Files to be ignored in the commits
-
-# dependencies
 /node_modules
+test.md 
